@@ -19,6 +19,7 @@
 - [testing](https://blog.logrocket.com/automated-testing-flutter/)
 - [graphql](https://pub.dev/packages/graphql_flutter)
 - [hooks?](https://github.com/rrousselGit/flutter_hooks) - seems like a bad idea to me, actually, way less verbose, but not listed as an official state option on the flutter docs [hooks guide](https://medium.com/flutter-community/flutter-hooks-7754df814995)
+- [fetching data](https://docs.flutter.dev/cookbook/networking/fetch-data)
 
 ## Commands
 
